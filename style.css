@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+.image {
+    margin: 10px;
+}
+
+.image:hover {
+    transform: scale(0.9);
+}
+
+h1 {
+    border: solid 3px brown;
+}
